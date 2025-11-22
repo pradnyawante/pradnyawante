@@ -2,7 +2,7 @@
 ![quote](https://github.com/user-attachments/assets/9119c06a-ebc1-48b6-9ce5-1b440d4dc068)
 
 # 💫 About Me:
-🔭 <b>Focused on </b> Python, SQL and Microsoft Azure 💻🐍<br>🌱 <b> Exploring </b> AI and Data Engineering along with Generative AI to stay ahead in the evolving IT market ⚛️🌐<br>🎉 <b>Fun fact:</b> I turn every challenge into fuel for growth – the bigger the obstacle, the bigger the triumph! 🔥💪
+🔭 <b>Focused on </b> Python, SQL and Microsoft Azure 💻🐍<br>🌱 <b> Exploring </b> AI and Data Engineering along with Generative AI ⚛️🌐<br>🎉 <b>Fun fact:</b> I turn every challenge into fuel for growth – the bigger the obstacle, the bigger the triumph! 🔥💪
 
 
 ## 🌐 Socials:
